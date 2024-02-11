@@ -1,0 +1,3 @@
+https://www.laravelia.com/post/laravel-10-ajax-crud-tutorial-using-modal
+https://leravio.com/blog/cara-membuat-ajax-crud-di-laravel-10/
+https://www.fundaofwebit.com/post/laravel-8-ajax-crud-with-example
